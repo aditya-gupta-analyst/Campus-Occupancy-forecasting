@@ -1,5 +1,7 @@
 # Smart Campus Occupancy Forecasting with Spatiotemporal Analytics & Capacity Optimization
 
+
+
 CampusPulse is a capstone project for forecasting room occupancy and exploring campus utilization. It combines a FastAPI backend, a browser-based dashboard, scikit-learn/gradient-boosting models, and a PuLP room-allocation optimizer. The included occupancy history is synthetic demonstration data, not measurements from a real campus.
 
 ---
